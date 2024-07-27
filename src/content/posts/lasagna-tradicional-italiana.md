@@ -1,11 +1,10 @@
-
 ---
 title: Lasagna Tradicional Italiana
 published: 2023-07-26
 description: La auténtica receta de lasagna italiana con salsa boloñesa y bechamel.
 tags: [Lasagna, Italiana, Receta]
 category: Italiana
-draft: true
+draft: false
 ---
 
 ## Introducción General
