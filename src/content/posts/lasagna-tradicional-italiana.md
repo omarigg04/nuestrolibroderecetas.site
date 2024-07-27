@@ -4,9 +4,11 @@ published: 2023-07-26
 description: La auténtica receta de lasagna italiana con salsa boloñesa y bechamel.
 tags: [Lasagna, Italiana, Receta]
 category: Italiana
+image: https://images.ecestaticos.com/GhNLsQJGX3XkIR1-T7kqsMClsyM=/0x118:2270x1393/557x418/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa9a%2Fbe7%2Ff51%2Fa9abe7f514c5a0074ebbcdbc5d6a02c6.jpg
 draft: false
 ---
 
+[Pasta](https://images.ecestaticos.com/GhNLsQJGX3XkIR1-T7kqsMClsyM=/0x118:2270x1393/557x418/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2Fa9a%2Fbe7%2Ff51%2Fa9abe7f514c5a0074ebbcdbc5d6a02c6.jpg)
 ## Introducción General
 
 La lasagna es uno de los platos más icónicos de la cocina italiana, conocida y apreciada en todo el mundo. Su origen se remonta a la región de Emilia-Romaña, particularmente en la ciudad de Bolonia. Tradicionalmente, la lasagna se prepara con capas de pasta alternadas con salsa boloñesa y salsa bechamel, y se corona con una generosa cantidad de queso parmesano rallado.
