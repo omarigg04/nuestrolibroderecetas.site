@@ -1,4 +1,4 @@
-# 🍥Fuwari
+# 🍥Kitchen Recipe Archive
 
 基于 [Astro](https://astro.build) 开发的静态博客模板。
 
@@ -7,7 +7,7 @@
 
 > README 版本：`2024-04-07`
 
-![Preview Image](https://raw.githubusercontent.com/saicaca/resource/main/fuwari/home.png)
+![Preview Image](https://github.com/user-attachments/assets/e2ccd0d4-685d-4160-b519-c350f228a1b4)
 
 ## ✨ 功能特性
 
