@@ -5,9 +5,9 @@ description: Descubre cómo preparar la auténtica Pasta Alfredo con nuestra rec
 tags: [Pasta, Italiana, Receta, Alfredo]
 category: Italiana
 draft: false
-image: https://ginos.com.mx/wp-content/uploads/2021/09/salsa-alfredo.png
+image: https://github.com/user-attachments/assets/13e0cb31-c9f7-4ad1-8ae6-792a7f1d5410
 ---
-[Pasta](https://ginos.com.mx/wp-content/uploads/2021/09/salsa-alfredo.png)
+[Pasta](https://github.com/user-attachments/assets/13e0cb31-c9f7-4ad1-8ae6-792a7f1d5410)
 # Pasta Alfredo
 
 ## Introducción General

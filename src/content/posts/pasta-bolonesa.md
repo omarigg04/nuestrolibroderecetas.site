@@ -4,11 +4,11 @@ published: 2024-07-27
 description: Aprende a preparar la auténtica Pasta Boloñesa con esta receta detallada. Perfecta para una comida italiana casera.
 tags: [Pasta, Italiana, Receta, Boloñesa]
 category: Italiana
-image: https://www.paulinacocina.net/wp-content/uploads/2015/05/bolo-1024x683.jpg
+image: https://github.com/user-attachments/assets/23400480-0e2d-4dcf-9625-6e82bd34d79f
 draft: false
 ---
 
-[Pasta](https://www.paulinacocina.net/wp-content/uploads/2015/05/bolo-1024x683.jpg)
+[Pasta](https://github.com/user-attachments/assets/23400480-0e2d-4dcf-9625-6e82bd34d79f)
 # Pasta Boloñesa
 
 ## Introducción General
